@@ -15,12 +15,12 @@ Este projeto foi desenvolvido como parte dos meus estudos iniciais em programaç
 
 # Funcionalidades
 
-- ➕ Soma de dois números
-- ➖ Subtração de dois números
-- ✖️ Multiplicação de dois números
-- ➗ Divisão de dois números (com proteção contra divisão por zero)
-- 🔄 Operações contínuas até o usuário decidir sair
-- ✅ Validação de entradas
+- Soma de dois números
+- Subtração de dois números
+- Multiplicação de dois números
+- Divisão de dois números (com proteção contra divisão por zero)
+- Operações contínuas até o usuário decidir sair
+- Validação de entradas
 
 # Versões Implementadas
 
@@ -109,16 +109,8 @@ Durante o desenvolvimento deste projeto, pude consolidar conhecimentos sobre:
 - **Exceções**: Tratamento de erros e validações
 - **Boas práticas**: Organização de código e comentários
 
-# Próximos Passos
-
-- [ ] Adicionar operações avançadas (potência, raiz quadrada)
-- [ ] Implementar histórico de operações
-- [ ] Criar interface gráfica (GUI)
-- [ ] Adicionar testes unitários
-- [ ] Implementar calculadora científica
-
 # Autor
 
-**Seu Nome**
-- LinkedIn: [](www.linkedin.com/in/mikael-theovaldo-089a3835b)
-- GitHub: [](https://github.com/Mikael-Theovaldo/calculadoraSimples_java.git)
+**Mikael Theovaldo Silva Carvalho**
+- LinkedIn: [www.linkedin.com/in/mikael-theovaldo-089a3835b]
+
