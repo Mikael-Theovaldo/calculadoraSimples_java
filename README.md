@@ -51,17 +51,32 @@ git clone https://github.com/Mikael-Theovaldo/calculadoraSimples_java.git
 
 2. Navegue até o diretório do projeto:
 ```bash
-cd calculadora-java
+cd calculadoraSimples
+```
+ou 
+
+```bash
+cd calculadoraBasica
 ```
 
 3. Compile o código:
 ```bash
 javac src/exercicios/CalculadoraSimples.java
 ```
+ou
+
+```bash
+javac src/exercicios/CalculadoraBasica.java
+```
 
 4. Execute o programa:
 ```bash
 java src.exercicios.CalculadoraSimples
+```
+ou 
+
+```bash
+java src.exercicios.CalculadoraBasica
 ```
 
 # Como Usar
